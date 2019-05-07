@@ -34,3 +34,5 @@ database representation of a round
 round is assessed for handicap or not
 ability to alter final scores for a round vs handicap
 summary screen for a round to manually enter handicap
+
+But also, UDisc
